@@ -1,0 +1,207 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.nav-link {
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+}
+
+.navbar-burger-btn {
+    color: white;
+    padding: 15px 15px;
+}
+
+.modal-window-btn {
+    font-size: 20px;
+    font-weight: 700;
+    background-color: white;
+    padding: 15px 45px;
+}
+
+.modal-window-btn:hover {
+    background-color: white;
+}
+
+.main-block {
+    background-image: url(../images/main-pic.png);
+    background-repeat: no-repeat;
+    padding: 200px 0;
+    background-position: center;
+    background-size: cover;
+}
+
+.main-block h1 {
+    font-size: 56px;
+    color: white;
+    font-weight: 700;
+}
+
+.main-block p {
+    font-size: 20px;
+    color: white;
+    font-weight: 400;
+}
+
+.main-btn {
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 55px;
+    border: 0;
+}
+
+.featured-post h2 {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.featured-post p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #6D6E76;
+}
+
+.featured-post-block {
+    background-color: #F5F3F3;
+    border: 1px solid #e6e6e6;
+    padding: 35px 35px;
+}
+
+.all-categories-block h2 {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.all-categories-block h5 {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.all-categories-block p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.category {
+    background-size: auto;
+    background-position: center;
+
+}
+
+.category:hover {
+    background-color: rgb(200, 200, 200);
+}
+
+.icon-1 {
+    background-image: url(../images/ic-business.png);
+    width: 48px;
+    height: 48px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+
+.icon-2 {
+    background-image: url(../images/ic-economy.png);
+    width: 48px;
+    height: 48px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+
+.icon-3 {
+    background-image: url(../images/ic-startup.png);
+    width: 48px;
+    height: 48px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+
+.icon-4 {
+    background-image: url(../images/ic-technology.png);
+    width: 48px;
+    height: 48px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+
+.yellow-post-block {
+    padding-bottom: 80px;
+}
+
+.yellow-block h3 {
+    font-size: 44px;
+    font-weight: 700; 
+}
+
+.yellow-block p {
+    font-size: 16px;
+    font-weight: 400; 
+}
+
+.yellow-post {
+    background-color: rgba(255, 208, 80, 0.5);
+}
+
+.authors-block h3 {
+    font-size: 40px;
+    font-weight: 600; 
+}
+
+.authors-block h5 {
+    font-size: 24px;
+    font-weight: 700; 
+}
+
+.authors-block p {
+    font-size: 14px;
+    font-weight: 400;  
+}
+
+.card-author-image {
+    border-radius: 50%;
+    width: 45%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.author-card {
+    background-color: #F5F3F3;
+    padding-top: 40px;
+    padding-bottom: 15px;
+}
+
+.footer-text {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+footer {
+    padding: 30px 0;
+}
+
+.email-link {
+    color: rgba(255, 255, 255, 0.75);
+    text-decoration: none;
+}
+
+.link-block {
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.link-block:hover {
+    border: 2px solid rgb(200, 200, 200);
+}
+
+.soc-net-link {
+    color: white;
+    text-decoration: none;
+}
+
+.soc-net-link:hover {
+    color: rgb(200, 200, 200);
+}
